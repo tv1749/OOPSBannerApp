@@ -18,6 +18,7 @@ public class UC3 {
         String line5 = String.join(" ",
                 "OOOOO", " ", "OOOOO", " ", "P", " ", " ", " ", "SSSSS");
 
+
         System.out.println(line1);
         System.out.println(line2);
         System.out.println(line3);
